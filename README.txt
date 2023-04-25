@@ -1,30 +1,4 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Repositório de projetos:
 
-
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Projeto: Projeto de automatização dos registros financeiros da equipe com python
+	* Leitura dos comprovantes bancários e criação de uma base de dados utilizando python e os pacotes pytesseract, pandas, re, outh2client, gspread e PIL. Com este projeto foi possível reduzir aproximadamente 94,2% do tempo gasto na produção dos registros financeiros. Antes da automatização, a equipe gastava em média 1 min por comprovante e foi possível reduzir para 3,5 segundos.
